@@ -1,2 +1,1 @@
-# PyDXWrapper
-PyDXWrapper by RiritoXXL
+## WIP!!!(Work In Progress)
